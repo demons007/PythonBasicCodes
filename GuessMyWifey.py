@@ -1,6 +1,6 @@
 # Python Guess correct number using while: 22-7-2021
 # variables:
-secret_name = str("MISTI")
+secret_name = str("NAME")
 
 print("::Hey PC who is my Wify :")
 
